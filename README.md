@@ -1,4 +1,4 @@
-# LibaryRegedit
+# LibraryRegedit
 
 ### changeManufacturer.reg
 Change your OEM information on your PC
