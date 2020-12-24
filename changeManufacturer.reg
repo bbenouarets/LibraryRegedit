@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+@=""
+"Manufacturer"="RepairYourWindows"
+"Model"="RYWin"
+"Logo"="C:\\windows\\system32\\oobe\\info\\ASUS_BADGE.bmp"
+"SupportPhone"="1-234-567-7890"
+"SupportURL"="https://bbenouarets.github.io/RepairYourWindows"
+"SupportHours"="Mo-Fr: 00:00am-23:59pm"
